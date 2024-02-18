@@ -14,12 +14,12 @@ This project aims to automate the process of scraping house listing data from bu
    ```bash
    git clone https://github.com/Mutai-Gilbert/Automating-Data-Scrapers-Apache-Airflow
 ## Install the required Python packages:
-```bash
+  ```bash
    pip install pandas numpy
+  ```
 
    
-## Usage
-
+## Usage:
 
 - Configure Apache Airflow according to your environment.
 - Copy the DAG (Directed Acyclic Graph) file from the dags directory to your Apache Airflow DAGs folder.
